@@ -1,5 +1,5 @@
 Project: AI Practice. Creation of 3D Virtual Environment in Unity.
-   An environment is developed about the Engineer Faculty of UAEMex. For this project was emplyed SweetHome 3D, Mixamo, and Visual Studio 2019.
+   An environment is developed about the Engineer Faculty of UAEMex. For this project was employed SweetHome 3D, Mixamo, and Visual Studio 2019.
   
    1. A terrain is created with textures and elements of the environment
    2. Models about the faculty structures are created
